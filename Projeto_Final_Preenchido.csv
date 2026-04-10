@@ -1,0 +1,501 @@
+num_ocorrencia;data;hora;bairro;rua;veiculo;genero;idade;tipo_vitima;lesao
+1;2025-08-15;21:16:08;BOM RETIRO;Rua A;Moto Scooter;Masculino;33;Passageiro;1 - Leve
+2;2026-03-13;00:52:19;CIDADE INDUSTRIAL;Rua B;Moto 250cc;Masculino;32;Passageiro;2 - Grave s/ risco
+3;2025-12-23;12:27:47;CABRAL;Rua C;Moto 125cc;Masculino;32;Passageiro;1 - Leve
+4;2025-11-04;12:45:34;PINHEIRINHO;Rua D;Moto 150cc;Masculino;46;Passageiro;3 - Grave c/ risco
+5;2025-05-27;05:17:50;TARUMÃ;Rua E;Moto 150cc;Masculino;10;Passageiro;2 - Grave s/ risco
+6;2025-05-27;04:46:24;FANNY;Rua F;Moto 150cc;Masculino;21;Passageiro;3 - Grave c/ risco
+7;2025-04-22;01:09:55;JUVEVÊ;Rua G;Moto 125cc;Masculino;34;Passageiro;1 - Leve
+8;2026-02-10;17:58:44;MOSSUNGUÊ;Rua H;Moto 250cc;Masculino;17;Condutor;1 - Leve
+9;2025-11-05;04:54:55;MOSSUNGUÊ;Rua I;Moto 150cc;Masculino;35;Condutor;1 - Leve
+10;2025-12-14;00:53:00;BATEL;Rua J;Moto Scooter;Masculino;34;Condutor;1 - Leve
+11;2025-04-08;17:31:46;TARUMÃ;Rua K;Moto 150cc;Feminino;13;Condutor;Ilesa
+12;2026-03-20;16:10:20;CAPANEMA;Rua L;Moto 150cc;Masculino;13;Condutor;1 - Leve
+13;2026-01-29;21:58:26;CAPANEMA;Rua M;Moto 150cc;Masculino;-4;Condutor;3 - Grave c/ risco
+14;2025-06-17;16:12:32;CARMO;Rua N;Moto 150cc;Masculino;16;Passageiro;3 - Grave c/ risco
+15;2025-06-06;01:40:34;MERCES;Rua O;Moto 250cc;Masculino;35;Passageiro;1 - Leve
+16;2025-06-06;00:20:47;CRISTO REI;Rua P;Moto Scooter;Masculino;37;Condutor;2 - Grave s/ risco
+17;2025-07-20;22:05:27;SEMINÁRIO;Rua Q;Moto 250cc;Masculino;38;Condutor;1 - Leve
+18;2025-10-09;16:04:30;NOVO MUNDO;Rua R;Moto Scooter;Masculino;23;Passageiro;1 - Leve
+19;2025-09-05;04:37:02;MOSSUNGUÊ;Rua S;Moto 150cc;Masculino;34;Passageiro;1 - Leve
+20;2025-07-16;20:22:36;TINGUI;Rua T;Moto 125cc;Masculino;40;Passageiro;2 - Grave s/ risco
+21;2025-11-09;20:36:09;CENTRO CÍVICO;Rua U;Moto 250cc;Masculino;15;Condutor;2 - Grave s/ risco
+22;2025-05-21;09:18:16;UBERABA;Rua V;Moto 125cc;Masculino;36;Passageiro;2 - Grave s/ risco
+23;2025-07-16;20:13:08;SANTO INÁCIO;Rua W;Moto 250cc;Masculino;44;Condutor;2 - Grave s/ risco
+24;2025-08-12;13:00:50;BATEL;Rua X;Moto 150cc;Masculino;27;Condutor;1 - Leve
+25;2025-09-14;12:12:03;CENTRO CÍVICO;Rua Y;Moto 250cc;Masculino;50;Passageiro;3 - Grave c/ risco
+26;2026-01-11;00:48:39;CARMO;Rua Z;Moto 150cc;Masculino;27;Passageiro;3 - Grave c/ risco
+27;2025-06-12;01:27:30;PORTÃO;Rua A;Moto 250cc;Feminino;22;Condutor;1 - Leve
+28;2025-10-05;07:38:25;UBERABA;Rua B;Moto 150cc;Masculino;43;Passageiro;1 - Leve
+29;2025-11-02;01:53:53;UBERABA;Rua C;Moto 150cc;Feminino;65;Passageiro;3 - Grave c/ risco
+30;2025-04-17;02:58:49;BATEL;Rua D;Moto Scooter;Masculino;36;Condutor;1 - Leve
+31;2025-11-08;11:00:53;BOM RETIRO;Rua E;Moto 150cc;Masculino;44;Passageiro;3 - Grave c/ risco
+32;2025-06-02;11:04:29;CAPANEMA;Rua F;Moto Scooter;Masculino;27;Condutor;1 - Leve
+33;2025-04-24;16:47:46;CAPANEMA;Rua G;Moto 150cc;Masculino;16;Condutor;1 - Leve
+34;2026-03-12;22:14:36;CENTRO;Rua H;Moto 125cc;Masculino;37;Passageiro;1 - Leve
+35;2026-03-18;20:13:01;CIDADE INDUSTRIAL;Rua I;Moto 150cc;Masculino;39;Condutor;1 - Leve
+36;2026-01-20;10:50:38;JUVEVÊ;Rua J;Moto 125cc;Masculino;29;Condutor;2 - Grave s/ risco
+37;2025-07-20;05:59:33;TINGUI;Rua K;Moto 125cc;Feminino;44;Passageiro;2 - Grave s/ risco
+38;2025-05-06;05:49:33;CABRAL;Rua L;Moto 150cc;Feminino;25;Passageiro;3 - Grave c/ risco
+39;2025-12-06;17:29:14;MERCES;Rua M;Moto 125cc;Masculino;21;Passageiro;4 - Óbito
+40;2025-09-08;18:33:51;TARUMÃ;Rua N;Moto Scooter;Masculino;50;Condutor;2 - Grave s/ risco
+41;2025-05-15;05:32:23;NOVO MUNDO;Rua O;Moto 250cc;Masculino;50;Condutor;3 - Grave c/ risco
+42;2025-09-28;14:59:29;JARDIM SOCIAL;Rua P;Moto 150cc;Masculino;25;Passageiro;1 - Leve
+43;2025-04-13;22:41:50;FANNY;Rua Q;Moto 125cc;Masculino;60;Condutor;2 - Grave s/ risco
+44;2026-02-25;16:04:28;BOM RETIRO;Rua R;Moto 150cc;Masculino;30;Passageiro;3 - Grave c/ risco
+45;2025-07-04;03:09:55;SEMINÁRIO;Rua S;Moto Scooter;Masculino;36;Passageiro;1 - Leve
+46;2025-11-28;16:09:16;MOSSUNGUÊ;Rua T;Moto 150cc;Feminino;33;Condutor;2 - Grave s/ risco
+47;2025-07-23;19:23:04;PINHEIRINHO;Rua U;Moto 150cc;Masculino;42;Passageiro;1 - Leve
+48;2025-10-07;01:05:52;FANNY;Rua V;Moto 125cc;Masculino;39;Condutor;2 - Grave s/ risco
+49;2025-10-17;01:12:42;FANNY;Rua W;Moto Scooter;Feminino;38;Condutor;4 - Óbito
+50;2025-06-07;10:47:10;JUVEVÊ;Rua X;Moto 250cc;Masculino;19;Passageiro;4 - Óbito
+51;2026-03-19;18:46:56;CRISTO REI;Rua Y;Moto 250cc;Masculino;9;Condutor;3 - Grave c/ risco
+52;2026-01-08;22:54:15;CENTRO;Rua Z;Moto 125cc;Feminino;52;Passageiro;3 - Grave c/ risco
+53;2026-03-08;10:53:15;CAPANEMA;Rua A;Moto 150cc;Masculino;26;Condutor;2 - Grave s/ risco
+54;2026-02-20;07:03:39;SANTO INÁCIO;Rua B;Moto 125cc;Masculino;34;Condutor;2 - Grave s/ risco
+55;2025-11-04;03:55:24;CIDADE INDUSTRIAL;Rua C;Moto 125cc;Masculino;39;Condutor;1 - Leve
+56;2026-03-02;02:31:02;JARDIM SOCIAL;Rua D;Moto 125cc;Masculino;59;Passageiro;2 - Grave s/ risco
+57;2025-05-03;17:57:50;JUVEVÊ;Rua E;Moto 150cc;Masculino;37;Condutor;2 - Grave s/ risco
+58;2025-06-11;18:20:04;CENTRO;Rua F;Moto Scooter;Feminino;29;Passageiro;Ilesa
+59;2025-04-17;17:27:41;UBERABA;Rua G;Moto 125cc;Feminino;27;Condutor;2 - Grave s/ risco
+60;2025-07-28;21:20:05;SEMINÁRIO;Rua H;Moto 150cc;Masculino;34;Condutor;2 - Grave s/ risco
+61;2025-08-20;00:04:40;SANTO INÁCIO;Rua I;Moto Scooter;Feminino;21;Passageiro;2 - Grave s/ risco
+62;2025-07-08;11:25:45;UBERABA;Rua J;Moto 125cc;Masculino;35;Passageiro;2 - Grave s/ risco
+63;2026-01-27;01:48:13;JARDIM SOCIAL;Rua K;Moto 250cc;Masculino;34;Passageiro;3 - Grave c/ risco
+64;2025-08-08;12:26:08;CAPANEMA;Rua L;Moto Scooter;Masculino;59;Passageiro;1 - Leve
+65;2025-07-12;14:56:21;NOVO MUNDO;Rua M;Moto 125cc;Masculino;33;Passageiro;2 - Grave s/ risco
+66;2025-10-15;14:55:29;CAPANEMA;Rua N;Moto Scooter;Masculino;6;Condutor;3 - Grave c/ risco
+67;2025-05-22;10:47:16;JUVEVÊ;Rua O;Moto Scooter;Feminino;75;Condutor;2 - Grave s/ risco
+68;2026-01-17;03:00:07;CAPANEMA;Rua P;Moto Scooter;Masculino;49;Passageiro;1 - Leve
+69;2025-04-28;16:34:51;PORTÃO;Rua Q;Moto Scooter;Masculino;66;Condutor;3 - Grave c/ risco
+70;2026-03-26;14:46:55;PORTÃO;Rua R;Moto Scooter;Masculino;17;Condutor;3 - Grave c/ risco
+71;2026-01-07;21:13:25;TINGUI;Rua S;Moto Scooter;Feminino;31;Condutor;1 - Leve
+72;2025-06-12;22:13:23;JUVEVÊ;Rua T;Moto 125cc;Feminino;45;Passageiro;3 - Grave c/ risco
+73;2025-04-03;01:44:25;TINGUI;Rua U;Moto 250cc;Feminino;43;Condutor;3 - Grave c/ risco
+74;2026-01-22;13:58:55;NOVO MUNDO;Rua V;Moto 150cc;Masculino;39;Condutor;2 - Grave s/ risco
+75;2025-12-14;18:06:02;NOVO MUNDO;Rua W;Moto Scooter;Masculino;2;Condutor;Ilesa
+76;2025-12-22;14:22:45;CARMO;Rua X;Moto 150cc;Masculino;9;Passageiro;3 - Grave c/ risco
+77;2026-01-06;10:46:59;JUVEVÊ;Rua Y;Moto 125cc;Masculino;57;Condutor;3 - Grave c/ risco
+78;2025-04-27;12:17:57;SANTO INÁCIO;Rua Z;Moto Scooter;Masculino;60;Condutor;3 - Grave c/ risco
+79;2025-08-09;05:34:50;REBOUÇAS;Rua A;Moto 250cc;Feminino;33;Passageiro;1 - Leve
+80;2025-05-13;14:24:54;MOSSUNGUÊ;Rua B;Moto 150cc;Masculino;55;Passageiro;1 - Leve
+81;2026-02-09;04:27:09;BATEL;Rua C;Moto Scooter;Masculino;19;Condutor;2 - Grave s/ risco
+82;2025-11-13;06:56:16;CRISTO REI;Rua D;Moto 125cc;Masculino;23;Condutor;1 - Leve
+83;2025-07-30;06:21:25;CAPANEMA;Rua E;Moto 250cc;Masculino;18;Passageiro;2 - Grave s/ risco
+84;2025-04-24;11:24:16;SANTO INÁCIO;Rua F;Moto 150cc;Masculino;22;Passageiro;4 - Óbito
+85;2025-07-23;12:19:24;CENTRO;Rua G;Moto 150cc;Masculino;45;Passageiro;3 - Grave c/ risco
+86;2025-07-28;03:09:02;TARUMÃ;Rua H;Moto Scooter;Masculino;22;Passageiro;2 - Grave s/ risco
+87;2025-12-22;08:44:17;BOM RETIRO;Rua I;Moto 250cc;Feminino;68;Passageiro;4 - Óbito
+88;2025-11-19;14:35:46;CARMO;Rua J;Moto 250cc;Feminino;41;Passageiro;3 - Grave c/ risco
+89;2026-02-17;21:33:46;CAPANEMA;Rua K;Moto 250cc;Masculino;51;Passageiro;2 - Grave s/ risco
+90;2025-09-19;07:39:48;SÃO FRANCISCO;Rua L;Moto 250cc;Masculino;42;Condutor;1 - Leve
+91;2025-05-14;11:18:41;CAPANEMA;Rua M;Moto 125cc;Feminino;53;Passageiro;2 - Grave s/ risco
+92;2025-12-16;08:36:05;CENTRO;Rua N;Moto 250cc;Masculino;21;Passageiro;3 - Grave c/ risco
+93;2026-01-02;19:25:33;PORTÃO;Rua O;Moto 150cc;Masculino;56;Condutor;2 - Grave s/ risco
+94;2025-10-22;23:58:44;SANTA FELICIDADE;Rua P;Moto 150cc;Feminino;37;Passageiro;3 - Grave c/ risco
+95;2026-01-06;05:36:56;MOSSUNGUÊ;Rua Q;Moto 125cc;Masculino;53;Passageiro;1 - Leve
+96;2025-09-27;00:52:21;JUVEVÊ;Rua R;Moto 150cc;Masculino;13;Condutor;3 - Grave c/ risco
+97;2025-10-08;20:05:05;FANNY;Rua S;Moto 150cc;Masculino;37;Passageiro;3 - Grave c/ risco
+98;2025-09-03;22:47:03;SANTO INÁCIO;Rua T;Moto 250cc;Masculino;37;Condutor;3 - Grave c/ risco
+99;2025-04-10;10:29:30;SÃO FRANCISCO;Rua U;Moto 150cc;Masculino;25;Condutor;Ilesa
+100;2025-05-10;23:54:08;REBOUÇAS;Rua V;Moto 125cc;Feminino;39;Condutor;3 - Grave c/ risco
+101;2025-04-12;22:02:50;TINGUI;Rua W;Moto 250cc;Masculino;58;Condutor;Ilesa
+102;2025-11-18;07:36:35;JARDIM SOCIAL;Rua X;Moto Scooter;Masculino;24;Passageiro;Ilesa
+103;2025-07-24;23:30:05;BATEL;Rua Y;Moto 250cc;Masculino;49;Condutor;3 - Grave c/ risco
+104;2025-10-03;01:19:27;UBERABA;Rua Z;Moto 125cc;Masculino;18;Condutor;3 - Grave c/ risco
+105;2026-02-25;10:03:14;REBOUÇAS;Rua A;Moto 250cc;Masculino;66;Passageiro;1 - Leve
+106;2025-06-30;05:53:48;UBERABA;Rua B;Moto 250cc;Feminino;46;Condutor;2 - Grave s/ risco
+107;2025-08-28;23:37:50;CENTRO CÍVICO;Rua C;Moto 125cc;Masculino;60;Condutor;2 - Grave s/ risco
+108;2026-01-01;01:14:10;TINGUI;Rua D;Moto 250cc;Feminino;45;Condutor;1 - Leve
+109;2025-06-23;07:25:50;NOVO MUNDO;Rua E;Moto 125cc;Feminino;40;Condutor;1 - Leve
+110;2025-04-29;12:43:04;JARDIM SOCIAL;Rua F;Moto 125cc;Masculino;46;Passageiro;Ilesa
+111;2025-07-15;05:25:53;REBOUÇAS;Rua G;Moto Scooter;Masculino;32;Condutor;4 - Óbito
+112;2025-05-29;03:18:19;TARUMÃ;Rua H;Moto 150cc;Feminino;10;Passageiro;3 - Grave c/ risco
+113;2026-03-05;00:19:48;JUVEVÊ;Rua I;Moto 150cc;Masculino;41;Passageiro;2 - Grave s/ risco
+114;2026-01-20;11:46:00;CARMO;Rua J;Moto 250cc;Masculino;23;Condutor;1 - Leve
+115;2025-11-17;13:37:36;SANTO INÁCIO;Rua K;Moto 250cc;Masculino;18;Condutor;1 - Leve
+116;2026-02-12;10:35:12;TARUMÃ;Rua L;Moto Scooter;Masculino;44;Condutor;1 - Leve
+117;2026-01-18;10:02:32;MERCES;Rua M;Moto Scooter;Masculino;30;Condutor;1 - Leve
+118;2025-06-07;05:49:55;SANTO INÁCIO;Rua N;Moto Scooter;Feminino;50;Passageiro;1 - Leve
+119;2026-02-19;09:04:22;PINHEIRINHO;Rua O;Moto 125cc;Feminino;23;Passageiro;Ilesa
+120;2025-10-14;09:43:01;REBOUÇAS;Rua P;Moto Scooter;Masculino;27;Passageiro;3 - Grave c/ risco
+121;2026-01-19;12:39:01;FANNY;Rua Q;Moto Scooter;Masculino;52;Condutor;1 - Leve
+122;2026-02-21;19:00:36;TARUMÃ;Rua R;Moto 250cc;Masculino;39;Passageiro;1 - Leve
+123;2025-07-25;08:16:08;CIDADE INDUSTRIAL;Rua S;Moto Scooter;Masculino;12;Condutor;2 - Grave s/ risco
+124;2025-05-11;10:14:23;REBOUÇAS;Rua T;Moto 125cc;Masculino;38;Condutor;1 - Leve
+125;2025-06-22;05:54:34;SÃO FRANCISCO;Rua U;Moto 125cc;Masculino;57;Condutor;Ilesa
+126;2025-09-03;16:04:59;CENTRO;Rua V;Moto 250cc;Masculino;27;Condutor;2 - Grave s/ risco
+127;2026-01-23;11:49:13;TARUMÃ;Rua W;Moto Scooter;Feminino;43;Condutor;2 - Grave s/ risco
+128;2026-02-08;20:55:10;CIDADE INDUSTRIAL;Rua X;Moto Scooter;Masculino;22;Passageiro;1 - Leve
+129;2025-04-03;08:33:11;CARMO;Rua Y;Moto 125cc;Masculino;32;Passageiro;1 - Leve
+130;2025-10-03;02:34:00;CAPANEMA;Rua Z;Moto Scooter;Masculino;51;Condutor;2 - Grave s/ risco
+131;2025-08-30;07:21:59;NOVO MUNDO;Rua A;Moto Scooter;Feminino;38;Passageiro;3 - Grave c/ risco
+132;2025-06-20;07:10:40;SEMINÁRIO;Rua B;Moto Scooter;Masculino;54;Condutor;3 - Grave c/ risco
+133;2025-05-14;04:13:59;NOVO MUNDO;Rua C;Moto 150cc;Masculino;41;Condutor;1 - Leve
+134;2025-08-01;02:20:36;BATEL;Rua D;Moto 250cc;Masculino;68;Condutor;2 - Grave s/ risco
+135;2026-03-10;04:18:58;CENTRO;Rua E;Moto 150cc;Feminino;11;Passageiro;2 - Grave s/ risco
+136;2025-07-27;13:25:03;TARUMÃ;Rua F;Moto 250cc;Masculino;31;Condutor;4 - Óbito
+137;2025-10-06;12:41:24;TARUMÃ;Rua G;Moto 125cc;Masculino;18;Condutor;1 - Leve
+138;2025-12-12;17:39:07;JARDIM SOCIAL;Rua H;Moto Scooter;Masculino;19;Passageiro;1 - Leve
+139;2025-08-11;06:39:13;FANNY;Rua I;Moto 250cc;Masculino;19;Passageiro;2 - Grave s/ risco
+140;2026-03-20;18:37:32;REBOUÇAS;Rua J;Moto 150cc;Masculino;37;Passageiro;2 - Grave s/ risco
+141;2026-03-17;22:14:32;REBOUÇAS;Rua K;Moto Scooter;Feminino;38;Condutor;2 - Grave s/ risco
+142;2025-07-01;16:32:46;PORTÃO;Rua L;Moto 125cc;Masculino;41;Condutor;2 - Grave s/ risco
+143;2025-09-28;22:01:13;CIDADE INDUSTRIAL;Rua M;Moto 250cc;Masculino;18;Passageiro;2 - Grave s/ risco
+144;2025-07-19;20:39:39;NOVO MUNDO;Rua N;Moto 250cc;Masculino;30;Condutor;4 - Óbito
+145;2025-07-13;18:38:50;CIDADE INDUSTRIAL;Rua O;Moto 250cc;Feminino;20;Passageiro;2 - Grave s/ risco
+146;2025-04-14;05:05:02;PORTÃO;Rua P;Moto Scooter;Masculino;49;Passageiro;Ilesa
+147;2025-11-08;06:50:07;JUVEVÊ;Rua Q;Moto 150cc;Masculino;21;Condutor;2 - Grave s/ risco
+148;2025-09-30;09:51:14;CIDADE INDUSTRIAL;Rua R;Moto 150cc;Feminino;31;Condutor;Ilesa
+149;2025-04-19;14:28:32;UBERABA;Rua S;Moto 250cc;Feminino;43;Passageiro;3 - Grave c/ risco
+150;2025-07-11;19:29:38;MOSSUNGUÊ;Rua T;Moto 125cc;Masculino;25;Passageiro;1 - Leve
+151;2026-02-25;03:28:37;CABRAL;Rua U;Moto 125cc;Masculino;45;Passageiro;4 - Óbito
+152;2025-06-27;00:36:26;CENTRO;Rua V;Moto 150cc;Feminino;58;Passageiro;1 - Leve
+153;2025-05-23;22:32:03;CENTRO;Rua W;Moto 125cc;Masculino;37;Condutor;Ilesa
+154;2025-09-26;21:01:09;SANTA FELICIDADE;Rua X;Moto 150cc;Feminino;48;Passageiro;2 - Grave s/ risco
+155;2026-03-25;04:58:09;PINHEIRINHO;Rua Y;Moto 250cc;Feminino;3;Passageiro;1 - Leve
+156;2025-06-28;00:53:37;MOSSUNGUÊ;Rua Z;Moto 150cc;Masculino;28;Passageiro;2 - Grave s/ risco
+157;2025-12-01;12:30:46;SÃO FRANCISCO;Rua A;Moto 150cc;Masculino;37;Condutor;Ilesa
+158;2026-01-03;03:44:23;PINHEIRINHO;Rua B;Moto 250cc;Masculino;19;Condutor;1 - Leve
+159;2025-06-26;19:55:14;CAPANEMA;Rua C;Moto 125cc;Masculino;38;Passageiro;2 - Grave s/ risco
+160;2025-12-22;07:04:28;CRISTO REI;Rua D;Moto 150cc;Masculino;50;Condutor;3 - Grave c/ risco
+161;2025-08-12;14:03:11;BATEL;Rua E;Moto 150cc;Feminino;6;Condutor;3 - Grave c/ risco
+162;2025-11-17;12:01:26;REBOUÇAS;Rua F;Moto 250cc;Masculino;17;Condutor;2 - Grave s/ risco
+163;2025-11-17;18:50:35;CARMO;Rua G;Moto 125cc;Feminino;37;Passageiro;1 - Leve
+164;2025-10-13;03:25:42;CRISTO REI;Rua H;Moto 150cc;Masculino;41;Passageiro;1 - Leve
+165;2025-05-03;04:19:10;CENTRO;Rua I;Moto 250cc;Masculino;46;Condutor;2 - Grave s/ risco
+166;2026-01-30;09:39:37;CRISTO REI;Rua J;Moto 150cc;Masculino;36;Passageiro;2 - Grave s/ risco
+167;2025-07-26;05:07:22;UBERABA;Rua K;Moto Scooter;Masculino;41;Passageiro;Ilesa
+168;2025-06-07;14:25:45;PINHEIRINHO;Rua L;Moto 250cc;Masculino;48;Condutor;1 - Leve
+169;2025-04-15;10:11:25;MERCES;Rua M;Moto 125cc;Masculino;28;Condutor;3 - Grave c/ risco
+170;2025-11-02;12:39:17;CRISTO REI;Rua N;Moto 125cc;Feminino;25;Passageiro;1 - Leve
+171;2025-12-03;00:46:39;SÃO FRANCISCO;Rua O;Moto 125cc;Masculino;32;Condutor;1 - Leve
+172;2025-04-07;10:11:43;MERCES;Rua P;Moto 125cc;Masculino;37;Passageiro;2 - Grave s/ risco
+173;2025-10-04;03:47:03;CRISTO REI;Rua Q;Moto 150cc;Masculino;25;Passageiro;2 - Grave s/ risco
+174;2025-06-22;04:55:36;JARDIM SOCIAL;Rua R;Moto 150cc;Masculino;29;Condutor;3 - Grave c/ risco
+175;2025-11-21;07:41:48;CABRAL;Rua S;Moto 125cc;Masculino;40;Passageiro;Ilesa
+176;2025-06-03;08:53:50;BATEL;Rua T;Moto 125cc;Masculino;37;Passageiro;2 - Grave s/ risco
+177;2025-12-08;13:39:40;CARMO;Rua U;Moto 125cc;Masculino;32;Condutor;Ilesa
+178;2025-08-19;21:10:22;MOSSUNGUÊ;Rua V;Moto 150cc;Masculino;8;Condutor;4 - Óbito
+179;2026-03-07;00:45:36;CABRAL;Rua W;Moto 125cc;Masculino;34;Condutor;2 - Grave s/ risco
+180;2025-05-21;20:25:45;CARMO;Rua X;Moto 125cc;Feminino;20;Passageiro;3 - Grave c/ risco
+181;2025-08-03;03:53:22;SANTA FELICIDADE;Rua Y;Moto Scooter;Masculino;49;Condutor;2 - Grave s/ risco
+182;2025-05-12;00:53:54;CARMO;Rua Z;Moto Scooter;Masculino;30;Condutor;1 - Leve
+183;2026-03-03;18:39:14;BATEL;Rua A;Moto 125cc;Masculino;20;Condutor;3 - Grave c/ risco
+184;2026-02-14;20:46:08;REBOUÇAS;Rua B;Moto 250cc;Masculino;34;Condutor;1 - Leve
+185;2025-07-03;20:08:09;MERCES;Rua C;Moto 125cc;Feminino;54;Passageiro;2 - Grave s/ risco
+186;2025-11-27;19:56:52;CRISTO REI;Rua D;Moto Scooter;Masculino;44;Passageiro;3 - Grave c/ risco
+187;2026-01-23;08:34:51;TARUMÃ;Rua E;Moto 250cc;Masculino;38;Condutor;1 - Leve
+188;2025-10-20;10:37:01;SANTA FELICIDADE;Rua F;Moto 250cc;Masculino;15;Passageiro;1 - Leve
+189;2025-10-10;06:17:26;MERCES;Rua G;Moto 125cc;Masculino;59;Condutor;Ilesa
+190;2025-06-28;01:26:16;JARDIM SOCIAL;Rua H;Moto Scooter;Masculino;25;Condutor;2 - Grave s/ risco
+191;2025-05-04;10:58:43;CENTRO;Rua I;Moto Scooter;Masculino;49;Passageiro;1 - Leve
+192;2026-02-21;18:53:23;TINGUI;Rua J;Moto 250cc;Feminino;30;Passageiro;3 - Grave c/ risco
+193;2026-02-22;06:51:05;SEMINÁRIO;Rua K;Moto 125cc;Masculino;47;Condutor;2 - Grave s/ risco
+194;2025-11-17;20:23:32;CENTRO CÍVICO;Rua L;Moto 150cc;Masculino;54;Condutor;2 - Grave s/ risco
+195;2025-08-02;16:28:42;UBERABA;Rua M;Moto 150cc;Masculino;44;Passageiro;Ilesa
+196;2025-08-06;21:25:27;SÃO FRANCISCO;Rua N;Moto Scooter;Masculino;46;Condutor;3 - Grave c/ risco
+197;2025-12-21;17:20:48;NOVO MUNDO;Rua O;Moto 150cc;Masculino;33;Passageiro;1 - Leve
+198;2026-02-21;06:16:19;CENTRO;Rua P;Moto Scooter;Masculino;28;Condutor;3 - Grave c/ risco
+199;2026-02-17;08:48:19;JUVEVÊ;Rua Q;Moto Scooter;Feminino;37;Condutor;4 - Óbito
+200;2026-01-09;21:21:27;CENTRO CÍVICO;Rua R;Moto Scooter;Masculino;29;Passageiro;1 - Leve
+201;2025-11-20;07:48:06;NOVO MUNDO;Rua S;Moto 150cc;Feminino;72;Passageiro;1 - Leve
+202;2025-05-01;00:31:12;SÃO FRANCISCO;Rua T;Moto Scooter;Feminino;20;Passageiro;1 - Leve
+203;2025-05-29;22:50:58;SANTA FELICIDADE;Rua U;Moto 250cc;Feminino;50;Passageiro;3 - Grave c/ risco
+204;2026-02-22;23:18:31;UBERABA;Rua V;Moto 125cc;Masculino;42;Passageiro;2 - Grave s/ risco
+205;2025-11-07;16:44:28;CENTRO;Rua W;Moto 125cc;Masculino;38;Passageiro;2 - Grave s/ risco
+206;2025-04-04;15:39:18;PORTÃO;Rua X;Moto Scooter;Masculino;57;Passageiro;Ilesa
+207;2025-05-07;17:00:13;PORTÃO;Rua Y;Moto 125cc;Feminino;39;Condutor;3 - Grave c/ risco
+208;2025-11-28;18:46:49;BOM RETIRO;Rua Z;Moto 150cc;Masculino;25;Condutor;1 - Leve
+209;2025-04-02;01:53:27;JUVEVÊ;Rua A;Moto 150cc;Masculino;39;Condutor;1 - Leve
+210;2025-05-29;16:49:29;CARMO;Rua B;Moto 125cc;Masculino;32;Passageiro;2 - Grave s/ risco
+211;2025-10-17;05:50:03;JARDIM SOCIAL;Rua C;Moto 150cc;Masculino;42;Passageiro;1 - Leve
+212;2025-12-08;00:07:28;BOM RETIRO;Rua D;Moto 125cc;Feminino;47;Passageiro;3 - Grave c/ risco
+213;2025-11-24;22:38:02;CIDADE INDUSTRIAL;Rua E;Moto 125cc;Feminino;22;Condutor;4 - Óbito
+214;2025-06-21;09:09:18;MOSSUNGUÊ;Rua F;Moto 125cc;Masculino;52;Passageiro;1 - Leve
+215;2025-12-16;13:33:59;MOSSUNGUÊ;Rua G;Moto Scooter;Masculino;31;Passageiro;2 - Grave s/ risco
+216;2025-06-26;00:22:54;FANNY;Rua H;Moto 125cc;Masculino;41;Condutor;3 - Grave c/ risco
+217;2025-07-28;17:06:28;BATEL;Rua I;Moto Scooter;Masculino;44;Passageiro;2 - Grave s/ risco
+218;2025-12-28;07:00:56;MOSSUNGUÊ;Rua J;Moto 125cc;Masculino;40;Condutor;1 - Leve
+219;2025-11-23;22:02:23;CRISTO REI;Rua K;Moto 125cc;Feminino;33;Condutor;2 - Grave s/ risco
+220;2026-02-04;22:58:07;BOM RETIRO;Rua L;Moto 125cc;Masculino;27;Passageiro;1 - Leve
+221;2025-11-26;21:56:46;SÃO FRANCISCO;Rua M;Moto 150cc;Masculino;30;Passageiro;Ilesa
+222;2025-10-24;04:02:50;CIDADE INDUSTRIAL;Rua N;Moto Scooter;Feminino;58;Passageiro;1 - Leve
+223;2025-05-05;00:27:46;PINHEIRINHO;Rua O;Moto Scooter;Masculino;22;Condutor;2 - Grave s/ risco
+224;2025-08-12;07:33:34;BATEL;Rua P;Moto 125cc;Masculino;24;Condutor;2 - Grave s/ risco
+225;2025-07-06;23:13:31;CARMO;Rua Q;Moto 125cc;Feminino;23;Condutor;Ilesa
+226;2025-06-28;23:45:42;SÃO FRANCISCO;Rua R;Moto 150cc;Masculino;37;Passageiro;1 - Leve
+227;2026-03-21;15:03:51;UBERABA;Rua S;Moto 150cc;Feminino;12;Passageiro;1 - Leve
+228;2025-08-22;04:53:20;JUVEVÊ;Rua T;Moto 150cc;Feminino;14;Passageiro;1 - Leve
+229;2026-02-19;13:30:54;CAPANEMA;Rua U;Moto Scooter;Feminino;31;Passageiro;1 - Leve
+230;2025-11-16;15:17:06;BATEL;Rua V;Moto Scooter;Masculino;15;Condutor;1 - Leve
+231;2026-01-15;09:06:32;PINHEIRINHO;Rua W;Moto Scooter;Masculino;16;Condutor;2 - Grave s/ risco
+232;2025-09-30;22:20:18;CAPANEMA;Rua X;Moto 125cc;Masculino;15;Condutor;1 - Leve
+233;2025-10-27;15:18:35;NOVO MUNDO;Rua Y;Moto Scooter;Feminino;22;Condutor;1 - Leve
+234;2025-09-27;17:01:00;JUVEVÊ;Rua Z;Moto 250cc;Feminino;45;Passageiro;3 - Grave c/ risco
+235;2025-06-11;14:04:19;CABRAL;Rua A;Moto 250cc;Masculino;49;Passageiro;1 - Leve
+236;2025-12-19;10:41:01;NOVO MUNDO;Rua B;Moto 150cc;Masculino;63;Passageiro;1 - Leve
+237;2025-07-12;02:22:54;JARDIM SOCIAL;Rua C;Moto Scooter;Masculino;63;Condutor;1 - Leve
+238;2025-04-09;11:19:04;PINHEIRINHO;Rua D;Moto 250cc;Masculino;46;Condutor;Ilesa
+239;2025-11-21;04:37:29;TARUMÃ;Rua E;Moto 150cc;Masculino;50;Passageiro;1 - Leve
+240;2025-06-04;08:33:52;CARMO;Rua F;Moto Scooter;Masculino;36;Passageiro;4 - Óbito
+241;2026-03-09;11:34:51;MOSSUNGUÊ;Rua G;Moto 125cc;Feminino;42;Condutor;3 - Grave c/ risco
+242;2026-03-14;21:43:23;REBOUÇAS;Rua H;Moto 250cc;Masculino;64;Passageiro;1 - Leve
+243;2026-02-28;16:09:29;JUVEVÊ;Rua I;Moto 125cc;Masculino;40;Condutor;Ilesa
+244;2025-08-13;23:58:45;JARDIM SOCIAL;Rua J;Moto Scooter;Masculino;52;Condutor;1 - Leve
+245;2025-04-06;22:31:16;MERCES;Rua K;Moto 250cc;Masculino;20;Condutor;1 - Leve
+246;2026-03-04;17:50:16;SÃO FRANCISCO;Rua L;Moto Scooter;Masculino;25;Passageiro;3 - Grave c/ risco
+247;2025-09-03;13:08:39;TARUMÃ;Rua M;Moto 125cc;Masculino;39;Passageiro;3 - Grave c/ risco
+248;2026-03-18;01:44:24;JARDIM SOCIAL;Rua N;Moto 250cc;Feminino;37;Condutor;2 - Grave s/ risco
+249;2026-03-17;06:08:53;TARUMÃ;Rua O;Moto 125cc;Feminino;25;Passageiro;1 - Leve
+250;2026-02-05;21:42:45;PINHEIRINHO;Rua P;Moto Scooter;Masculino;71;Condutor;2 - Grave s/ risco
+251;2025-07-17;03:25:57;NOVO MUNDO;Rua Q;Moto Scooter;Masculino;37;Condutor;3 - Grave c/ risco
+252;2025-08-19;12:33:22;SÃO FRANCISCO;Rua R;Moto 125cc;Masculino;28;Condutor;1 - Leve
+253;2026-02-04;04:10:05;NOVO MUNDO;Rua S;Moto 250cc;Masculino;37;Condutor;1 - Leve
+254;2025-07-25;17:20:41;UBERABA;Rua T;Moto 125cc;Masculino;35;Passageiro;1 - Leve
+255;2025-06-01;03:40:37;CABRAL;Rua U;Moto Scooter;Masculino;37;Condutor;1 - Leve
+256;2025-10-20;01:16:36;JARDIM SOCIAL;Rua V;Moto 125cc;Masculino;11;Condutor;4 - Óbito
+257;2026-03-07;05:57:11;SANTA FELICIDADE;Rua W;Moto Scooter;Masculino;54;Passageiro;2 - Grave s/ risco
+258;2025-12-10;22:52:41;NOVO MUNDO;Rua X;Moto 125cc;Masculino;55;Condutor;Ilesa
+259;2025-10-25;21:20:26;CABRAL;Rua Y;Moto 250cc;Feminino;57;Condutor;1 - Leve
+260;2025-05-06;05:26:39;SÃO FRANCISCO;Rua Z;Moto 250cc;Masculino;39;Passageiro;3 - Grave c/ risco
+261;2025-11-10;01:11:44;MERCES;Rua A;Moto 125cc;Masculino;44;Passageiro;1 - Leve
+262;2026-03-27;20:06:09;SEMINÁRIO;Rua B;Moto 125cc;Masculino;22;Passageiro;1 - Leve
+263;2025-05-21;12:16:25;SANTA FELICIDADE;Rua C;Moto 250cc;Feminino;47;Condutor;1 - Leve
+264;2025-10-06;20:27:57;BATEL;Rua D;Moto Scooter;Masculino;38;Passageiro;1 - Leve
+265;2026-02-14;13:01:59;MOSSUNGUÊ;Rua E;Moto 250cc;Masculino;28;Passageiro;2 - Grave s/ risco
+266;2025-12-26;21:42:00;CABRAL;Rua F;Moto Scooter;Masculino;47;Condutor;Ilesa
+267;2025-12-10;18:52:35;PINHEIRINHO;Rua G;Moto 125cc;Feminino;48;Condutor;3 - Grave c/ risco
+268;2025-12-12;18:25:28;SÃO FRANCISCO;Rua H;Moto 125cc;Masculino;35;Condutor;1 - Leve
+269;2025-08-09;20:10:39;SANTO INÁCIO;Rua I;Moto Scooter;Feminino;41;Condutor;1 - Leve
+270;2025-07-16;10:35:48;MOSSUNGUÊ;Rua J;Moto 125cc;Feminino;19;Condutor;1 - Leve
+271;2026-01-20;06:39:34;NOVO MUNDO;Rua K;Moto Scooter;Masculino;53;Passageiro;2 - Grave s/ risco
+272;2026-01-20;21:33:54;BOM RETIRO;Rua L;Moto 150cc;Feminino;21;Passageiro;3 - Grave c/ risco
+273;2026-02-10;14:23:53;CIDADE INDUSTRIAL;Rua M;Moto 250cc;Masculino;24;Passageiro;Ilesa
+274;2026-02-27;21:04:55;PINHEIRINHO;Rua N;Moto 150cc;Feminino;35;Condutor;1 - Leve
+275;2025-10-04;00:57:35;FANNY;Rua O;Moto Scooter;Masculino;51;Condutor;2 - Grave s/ risco
+276;2025-09-30;14:19:18;CABRAL;Rua P;Moto 250cc;Feminino;51;Condutor;2 - Grave s/ risco
+277;2026-01-16;02:51:42;REBOUÇAS;Rua Q;Moto Scooter;Masculino;34;Passageiro;3 - Grave c/ risco
+278;2025-11-23;16:58:44;BATEL;Rua R;Moto 250cc;Masculino;46;Passageiro;2 - Grave s/ risco
+279;2025-12-12;10:33:08;PORTÃO;Rua S;Moto 250cc;Masculino;9;Condutor;3 - Grave c/ risco
+280;2026-01-15;01:52:08;MERCES;Rua T;Moto 250cc;Masculino;24;Passageiro;3 - Grave c/ risco
+281;2026-02-18;08:39:16;CABRAL;Rua U;Moto 250cc;Masculino;24;Condutor;1 - Leve
+282;2025-08-02;00:24:42;UBERABA;Rua V;Moto Scooter;Masculino;53;Passageiro;3 - Grave c/ risco
+283;2025-08-15;07:41:24;JARDIM SOCIAL;Rua W;Moto 250cc;Masculino;44;Passageiro;1 - Leve
+284;2025-05-05;06:34:02;CENTRO CÍVICO;Rua X;Moto 250cc;Masculino;37;Passageiro;3 - Grave c/ risco
+285;2025-10-28;17:36:43;JUVEVÊ;Rua Y;Moto 150cc;Feminino;39;Condutor;2 - Grave s/ risco
+286;2025-04-14;11:50:29;FANNY;Rua Z;Moto 125cc;Masculino;58;Passageiro;2 - Grave s/ risco
+287;2025-09-17;05:33:11;CENTRO CÍVICO;Rua A;Moto 125cc;Masculino;32;Passageiro;Ilesa
+288;2025-10-15;18:36:43;MERCES;Rua B;Moto 150cc;Masculino;15;Condutor;4 - Óbito
+289;2025-07-14;16:16:09;CENTRO CÍVICO;Rua C;Moto 150cc;Masculino;51;Passageiro;3 - Grave c/ risco
+290;2025-11-02;22:48:46;TINGUI;Rua D;Moto Scooter;Feminino;37;Condutor;2 - Grave s/ risco
+291;2025-04-12;11:15:23;PORTÃO;Rua E;Moto Scooter;Masculino;49;Condutor;3 - Grave c/ risco
+292;2025-04-14;18:07:30;FANNY;Rua F;Moto Scooter;Masculino;34;Condutor;2 - Grave s/ risco
+293;2026-01-25;20:16:22;FANNY;Rua G;Moto 150cc;Feminino;22;Condutor;4 - Óbito
+294;2025-08-10;04:53:15;TINGUI;Rua H;Moto 150cc;Feminino;41;Condutor;2 - Grave s/ risco
+295;2025-05-17;05:07:24;CABRAL;Rua I;Moto 250cc;Masculino;35;Passageiro;Ilesa
+296;2025-10-08;17:24:11;SANTO INÁCIO;Rua J;Moto Scooter;Feminino;37;Condutor;Ilesa
+297;2026-01-06;14:58:25;CABRAL;Rua K;Moto Scooter;Feminino;59;Condutor;3 - Grave c/ risco
+298;2025-06-18;08:44:25;SEMINÁRIO;Rua L;Moto Scooter;Masculino;18;Condutor;1 - Leve
+299;2025-11-13;14:31:09;CENTRO CÍVICO;Rua M;Moto 125cc;Masculino;39;Condutor;1 - Leve
+300;2025-05-02;15:06:16;SEMINÁRIO;Rua N;Moto 250cc;Masculino;22;Passageiro;4 - Óbito
+301;2025-04-19;22:25:20;CENTRO;Rua O;Moto Scooter;Masculino;-3;Condutor;1 - Leve
+302;2025-10-11;21:57:06;JUVEVÊ;Rua P;Moto Scooter;Masculino;34;Passageiro;4 - Óbito
+303;2025-10-14;13:14:52;TINGUI;Rua Q;Moto Scooter;Masculino;35;Condutor;2 - Grave s/ risco
+304;2025-11-19;06:08:50;MERCES;Rua R;Moto 125cc;Masculino;44;Passageiro;2 - Grave s/ risco
+305;2025-12-21;15:07:49;FANNY;Rua S;Moto 125cc;Masculino;31;Condutor;Ilesa
+306;2026-03-22;22:28:17;NOVO MUNDO;Rua T;Moto 150cc;Masculino;12;Condutor;2 - Grave s/ risco
+307;2025-10-05;19:38:34;MERCES;Rua U;Moto 250cc;Masculino;22;Passageiro;2 - Grave s/ risco
+308;2025-07-27;17:58:41;TARUMÃ;Rua V;Moto 150cc;Masculino;54;Condutor;2 - Grave s/ risco
+309;2026-01-15;06:16:13;SEMINÁRIO;Rua W;Moto 250cc;Masculino;22;Passageiro;1 - Leve
+310;2025-07-08;23:34:43;SEMINÁRIO;Rua X;Moto 125cc;Masculino;58;Condutor;3 - Grave c/ risco
+311;2025-09-07;12:33:02;SÃO FRANCISCO;Rua Y;Moto Scooter;Feminino;50;Passageiro;1 - Leve
+312;2025-04-29;04:42:39;SEMINÁRIO;Rua Z;Moto 150cc;Masculino;30;Condutor;Ilesa
+313;2025-04-10;22:22:43;CRISTO REI;Rua A;Moto Scooter;Masculino;24;Condutor;4 - Óbito
+314;2026-03-17;06:14:55;CRISTO REI;Rua B;Moto 150cc;Masculino;50;Passageiro;1 - Leve
+315;2026-01-30;16:03:28;NOVO MUNDO;Rua C;Moto 125cc;Masculino;31;Condutor;3 - Grave c/ risco
+316;2025-12-10;21:24:12;FANNY;Rua D;Moto 125cc;Masculino;11;Condutor;2 - Grave s/ risco
+317;2025-08-27;17:32:15;TINGUI;Rua E;Moto 125cc;Feminino;43;Condutor;1 - Leve
+318;2025-06-03;12:41:43;UBERABA;Rua F;Moto 150cc;Feminino;41;Condutor;Ilesa
+319;2025-05-27;01:54:34;FANNY;Rua G;Moto 250cc;Masculino;52;Condutor;1 - Leve
+320;2025-07-01;09:33:29;CIDADE INDUSTRIAL;Rua H;Moto 150cc;Masculino;40;Condutor;1 - Leve
+321;2025-10-17;22:12:12;TINGUI;Rua I;Moto 250cc;Feminino;26;Passageiro;2 - Grave s/ risco
+322;2025-12-17;17:31:31;PINHEIRINHO;Rua J;Moto 150cc;Masculino;54;Passageiro;2 - Grave s/ risco
+323;2025-11-27;02:58:38;PORTÃO;Rua K;Moto 150cc;Masculino;55;Passageiro;2 - Grave s/ risco
+324;2025-07-11;13:51:28;CAPANEMA;Rua L;Moto 125cc;Feminino;38;Condutor;3 - Grave c/ risco
+325;2026-03-14;16:28:52;CABRAL;Rua M;Moto Scooter;Masculino;35;Passageiro;2 - Grave s/ risco
+326;2025-12-25;11:56:15;REBOUÇAS;Rua N;Moto Scooter;Masculino;15;Condutor;2 - Grave s/ risco
+327;2025-10-19;23:43:46;TINGUI;Rua O;Moto 250cc;Masculino;25;Condutor;1 - Leve
+328;2025-11-09;09:29:24;SANTA FELICIDADE;Rua P;Moto Scooter;Feminino;46;Condutor;1 - Leve
+329;2025-08-31;06:19:04;CABRAL;Rua Q;Moto 150cc;Masculino;26;Condutor;1 - Leve
+330;2025-06-30;00:29:48;CENTRO CÍVICO;Rua R;Moto 150cc;Masculino;13;Passageiro;1 - Leve
+331;2025-08-08;02:44:13;FANNY;Rua S;Moto 125cc;Masculino;87;Condutor;2 - Grave s/ risco
+332;2026-01-01;23:29:49;UBERABA;Rua T;Moto 125cc;Masculino;13;Passageiro;1 - Leve
+333;2025-04-06;03:17:36;REBOUÇAS;Rua U;Moto Scooter;Masculino;68;Condutor;1 - Leve
+334;2025-05-13;15:00:52;SANTA FELICIDADE;Rua V;Moto 250cc;Masculino;30;Passageiro;1 - Leve
+335;2025-04-17;13:14:08;CABRAL;Rua W;Moto Scooter;Masculino;33;Passageiro;Ilesa
+336;2025-04-15;14:48:56;FANNY;Rua X;Moto Scooter;Masculino;24;Passageiro;Ilesa
+337;2026-02-06;23:03:11;CENTRO;Rua Y;Moto Scooter;Feminino;46;Passageiro;2 - Grave s/ risco
+338;2025-12-13;04:36:42;TARUMÃ;Rua Z;Moto Scooter;Masculino;13;Passageiro;Ilesa
+339;2025-09-20;05:38:55;REBOUÇAS;Rua A;Moto 150cc;Feminino;7;Passageiro;3 - Grave c/ risco
+340;2025-05-06;13:23:10;CAPANEMA;Rua B;Moto 250cc;Masculino;59;Condutor;2 - Grave s/ risco
+341;2025-09-26;12:33:24;NOVO MUNDO;Rua C;Moto 150cc;Masculino;22;Passageiro;1 - Leve
+342;2025-09-20;06:51:03;PORTÃO;Rua D;Moto 250cc;Masculino;46;Condutor;3 - Grave c/ risco
+343;2025-06-03;07:19:28;BOM RETIRO;Rua E;Moto 125cc;Feminino;18;Passageiro;3 - Grave c/ risco
+344;2025-09-05;21:52:50;JUVEVÊ;Rua F;Moto Scooter;Masculino;45;Condutor;2 - Grave s/ risco
+345;2025-08-24;12:45:09;BATEL;Rua G;Moto 150cc;Masculino;60;Passageiro;3 - Grave c/ risco
+346;2025-11-11;10:33:56;CENTRO;Rua H;Moto 250cc;Masculino;27;Passageiro;2 - Grave s/ risco
+347;2025-11-18;08:48:57;TARUMÃ;Rua I;Moto 125cc;Masculino;5;Condutor;3 - Grave c/ risco
+348;2025-04-17;02:55:05;SÃO FRANCISCO;Rua J;Moto 125cc;Masculino;60;Passageiro;Ilesa
+349;2025-08-15;04:04:53;PORTÃO;Rua K;Moto Scooter;Feminino;48;Passageiro;1 - Leve
+350;2025-11-14;14:22:48;SEMINÁRIO;Rua L;Moto 250cc;Masculino;27;Passageiro;3 - Grave c/ risco
+351;2025-10-01;08:34:19;PINHEIRINHO;Rua M;Moto 150cc;Feminino;31;Condutor;2 - Grave s/ risco
+352;2026-02-06;16:58:41;CAPANEMA;Rua N;Moto Scooter;Masculino;18;Passageiro;3 - Grave c/ risco
+353;2025-11-26;02:49:17;NOVO MUNDO;Rua O;Moto 150cc;Masculino;56;Condutor;3 - Grave c/ risco
+354;2025-05-30;16:23:02;BOM RETIRO;Rua P;Moto 125cc;Masculino;26;Passageiro;1 - Leve
+355;2025-04-26;02:37:12;CENTRO CÍVICO;Rua Q;Moto 150cc;Masculino;13;Passageiro;2 - Grave s/ risco
+356;2025-11-20;23:46:24;JARDIM SOCIAL;Rua R;Moto 150cc;Feminino;38;Condutor;1 - Leve
+357;2025-04-10;08:03:13;FANNY;Rua S;Moto Scooter;Feminino;22;Passageiro;3 - Grave c/ risco
+358;2025-10-31;04:33:10;CRISTO REI;Rua T;Moto 150cc;Masculino;19;Passageiro;2 - Grave s/ risco
+359;2026-03-09;08:55:02;MOSSUNGUÊ;Rua U;Moto Scooter;Masculino;28;Condutor;3 - Grave c/ risco
+360;2025-10-27;08:02:24;MERCES;Rua V;Moto 125cc;Masculino;36;Passageiro;1 - Leve
+361;2025-08-20;01:11:41;UBERABA;Rua W;Moto Scooter;Feminino;14;Condutor;2 - Grave s/ risco
+362;2025-11-21;08:14:39;UBERABA;Rua X;Moto Scooter;Masculino;55;Condutor;1 - Leve
+363;2025-09-14;04:10:58;BATEL;Rua Y;Moto 250cc;Masculino;45;Condutor;4 - Óbito
+364;2025-10-16;01:23:59;BOM RETIRO;Rua Z;Moto 150cc;Feminino;29;Passageiro;Ilesa
+365;2026-03-09;14:37:07;CENTRO CÍVICO;Rua A;Moto 125cc;Masculino;21;Condutor;Ilesa
+366;2025-08-19;04:47:25;SÃO FRANCISCO;Rua B;Moto Scooter;Masculino;33;Condutor;3 - Grave c/ risco
+367;2026-03-16;17:05:36;REBOUÇAS;Rua C;Moto 125cc;Masculino;48;Passageiro;3 - Grave c/ risco
+368;2026-02-24;15:12:27;BOM RETIRO;Rua D;Moto 250cc;Feminino;46;Condutor;1 - Leve
+369;2025-06-11;04:12:16;FANNY;Rua E;Moto 150cc;Masculino;50;Passageiro;1 - Leve
+370;2025-04-26;17:39:44;SEMINÁRIO;Rua F;Moto Scooter;Masculino;27;Passageiro;2 - Grave s/ risco
+371;2025-05-07;18:57:02;CENTRO CÍVICO;Rua G;Moto 150cc;Masculino;-8;Passageiro;3 - Grave c/ risco
+372;2025-04-07;23:39:33;CRISTO REI;Rua H;Moto 250cc;Masculino;53;Passageiro;Ilesa
+373;2025-05-05;07:26:12;PORTÃO;Rua I;Moto 250cc;Masculino;32;Condutor;1 - Leve
+374;2025-12-05;12:32:05;JARDIM SOCIAL;Rua J;Moto 125cc;Masculino;44;Condutor;Ilesa
+375;2025-04-26;23:18:15;CENTRO CÍVICO;Rua K;Moto Scooter;Masculino;60;Condutor;3 - Grave c/ risco
+376;2025-07-26;07:27:32;TINGUI;Rua L;Moto 125cc;Masculino;71;Condutor;2 - Grave s/ risco
+377;2026-02-02;15:40:12;MOSSUNGUÊ;Rua M;Moto 250cc;Masculino;25;Condutor;1 - Leve
+378;2025-04-09;10:44:24;SANTA FELICIDADE;Rua N;Moto 150cc;Masculino;37;Passageiro;1 - Leve
+379;2026-01-22;20:41:35;CABRAL;Rua O;Moto 125cc;Feminino;55;Condutor;2 - Grave s/ risco
+380;2025-07-12;05:59:06;CARMO;Rua P;Moto 125cc;Masculino;22;Condutor;3 - Grave c/ risco
+381;2025-05-14;04:42:44;FANNY;Rua Q;Moto 150cc;Feminino;26;Condutor;1 - Leve
+382;2025-12-10;18:30:22;CENTRO CÍVICO;Rua R;Moto 125cc;Feminino;26;Passageiro;2 - Grave s/ risco
+383;2025-11-15;09:09:31;MERCES;Rua S;Moto 150cc;Masculino;34;Passageiro;4 - Óbito
+384;2026-02-14;10:52:29;MOSSUNGUÊ;Rua T;Moto Scooter;Masculino;31;Condutor;3 - Grave c/ risco
+385;2025-12-24;06:30:17;CABRAL;Rua U;Moto 150cc;Masculino;26;Passageiro;Ilesa
+386;2026-01-18;03:01:13;CIDADE INDUSTRIAL;Rua V;Moto Scooter;Masculino;20;Condutor;1 - Leve
+387;2025-07-12;12:28:11;CAPANEMA;Rua W;Moto 150cc;Masculino;47;Condutor;1 - Leve
+388;2025-06-04;06:01:31;CENTRO;Rua X;Moto 250cc;Masculino;55;Passageiro;3 - Grave c/ risco
+389;2025-12-30;12:45:26;CABRAL;Rua Y;Moto 250cc;Masculino;57;Passageiro;2 - Grave s/ risco
+390;2026-01-19;16:40:16;BOM RETIRO;Rua Z;Moto Scooter;Feminino;27;Condutor;1 - Leve
+391;2026-03-27;07:30:33;CRISTO REI;Rua A;Moto Scooter;Masculino;47;Condutor;1 - Leve
+392;2025-08-29;23:44:34;CIDADE INDUSTRIAL;Rua B;Moto 250cc;Feminino;38;Passageiro;2 - Grave s/ risco
+393;2025-08-14;15:05:18;CENTRO;Rua C;Moto Scooter;Masculino;26;Condutor;1 - Leve
+394;2026-01-08;06:09:40;CARMO;Rua D;Moto 150cc;Feminino;46;Passageiro;1 - Leve
+395;2025-08-03;01:27:59;CRISTO REI;Rua E;Moto 150cc;Masculino;25;Condutor;1 - Leve
+396;2026-03-05;14:29:36;CENTRO CÍVICO;Rua F;Moto 250cc;Masculino;29;Passageiro;1 - Leve
+397;2026-02-07;21:03:19;CABRAL;Rua G;Moto 125cc;Masculino;14;Condutor;2 - Grave s/ risco
+398;2025-09-04;03:49:03;MERCES;Rua H;Moto 150cc;Masculino;28;Condutor;2 - Grave s/ risco
+399;2025-12-30;16:11:21;PORTÃO;Rua I;Moto Scooter;Masculino;38;Passageiro;3 - Grave c/ risco
+400;2025-12-31;16:09:53;BATEL;Rua J;Moto 125cc;Feminino;58;Condutor;1 - Leve
+401;2025-05-08;00:21:25;CAPANEMA;Rua K;Moto 125cc;Masculino;29;Condutor;1 - Leve
+402;2026-02-23;23:58:17;JUVEVÊ;Rua L;Moto 150cc;Masculino;19;Passageiro;2 - Grave s/ risco
+403;2025-10-01;17:13:46;SÃO FRANCISCO;Rua M;Moto 150cc;Masculino;57;Condutor;2 - Grave s/ risco
+404;2026-01-26;11:35:58;CIDADE INDUSTRIAL;Rua N;Moto 125cc;Feminino;27;Condutor;2 - Grave s/ risco
+405;2025-07-26;02:51:11;CARMO;Rua O;Moto 125cc;Masculino;8;Condutor;1 - Leve
+406;2026-02-20;06:28:10;CIDADE INDUSTRIAL;Rua P;Moto 250cc;Masculino;36;Passageiro;Ilesa
+407;2025-08-20;00:05:46;REBOUÇAS;Rua Q;Moto Scooter;Masculino;30;Passageiro;1 - Leve
+408;2025-04-04;14:31:50;BOM RETIRO;Rua R;Moto 250cc;Masculino;69;Passageiro;2 - Grave s/ risco
+409;2026-02-24;10:57:22;SEMINÁRIO;Rua S;Moto 150cc;Masculino;42;Condutor;3 - Grave c/ risco
+410;2025-05-04;01:45:33;JUVEVÊ;Rua T;Moto 250cc;Feminino;32;Condutor;2 - Grave s/ risco
+411;2025-07-26;03:16:34;BOM RETIRO;Rua U;Moto 250cc;Masculino;21;Condutor;1 - Leve
+412;2026-03-12;12:40:38;SEMINÁRIO;Rua V;Moto 250cc;Feminino;39;Condutor;2 - Grave s/ risco
+413;2026-03-13;14:54:28;CARMO;Rua W;Moto 250cc;Masculino;56;Passageiro;3 - Grave c/ risco
+414;2025-10-26;10:51:31;BATEL;Rua X;Moto Scooter;Masculino;39;Condutor;1 - Leve
+415;2025-11-16;01:46:13;TARUMÃ;Rua Y;Moto Scooter;Feminino;22;Condutor;1 - Leve
+416;2025-09-11;19:21:10;JUVEVÊ;Rua Z;Moto 125cc;Masculino;43;Condutor;1 - Leve
+417;2025-07-16;02:16:43;BATEL;Rua A;Moto 150cc;Feminino;34;Passageiro;3 - Grave c/ risco
+418;2025-07-29;23:27:28;CARMO;Rua B;Moto 250cc;Masculino;41;Condutor;1 - Leve
+419;2025-12-01;20:46:15;PORTÃO;Rua C;Moto 125cc;Masculino;29;Condutor;Ilesa
+420;2025-12-30;04:58:19;BOM RETIRO;Rua D;Moto 125cc;Feminino;29;Condutor;2 - Grave s/ risco
+421;2026-01-14;05:18:56;BATEL;Rua E;Moto 125cc;Masculino;28;Condutor;Ilesa
+422;2026-01-13;04:02:58;TARUMÃ;Rua F;Moto Scooter;Masculino;49;Condutor;Ilesa
+423;2025-05-04;00:57:59;SANTO INÁCIO;Rua G;Moto 250cc;Masculino;29;Passageiro;2 - Grave s/ risco
+424;2025-09-27;05:14:33;CIDADE INDUSTRIAL;Rua H;Moto 250cc;Masculino;28;Condutor;1 - Leve
+425;2025-04-21;02:48:24;SEMINÁRIO;Rua I;Moto 150cc;Feminino;20;Condutor;1 - Leve
+426;2025-10-18;23:11:17;JUVEVÊ;Rua J;Moto 250cc;Masculino;41;Condutor;1 - Leve
+427;2025-09-08;14:43:15;CABRAL;Rua K;Moto 250cc;Masculino;39;Condutor;3 - Grave c/ risco
+428;2026-02-18;07:59:45;CAPANEMA;Rua L;Moto 125cc;Masculino;28;Condutor;1 - Leve
+429;2025-08-06;16:28:52;MERCES;Rua M;Moto 150cc;Masculino;24;Condutor;1 - Leve
+430;2025-05-13;07:14:26;NOVO MUNDO;Rua N;Moto 250cc;Masculino;63;Condutor;2 - Grave s/ risco
+431;2025-05-23;13:49:51;UBERABA;Rua O;Moto Scooter;Masculino;6;Condutor;Ilesa
+432;2026-01-03;06:02:28;TARUMÃ;Rua P;Moto 250cc;Feminino;42;Condutor;1 - Leve
+433;2025-11-12;11:52:23;PINHEIRINHO;Rua Q;Moto 125cc;Masculino;54;Condutor;1 - Leve
+434;2025-05-07;02:19:45;FANNY;Rua R;Moto Scooter;Masculino;-15;Passageiro;1 - Leve
+435;2025-05-01;14:24:29;UBERABA;Rua S;Moto 125cc;Masculino;46;Passageiro;Ilesa
+436;2025-12-12;13:06:16;TARUMÃ;Rua T;Moto 250cc;Masculino;31;Passageiro;2 - Grave s/ risco
+437;2025-04-27;11:19:35;PINHEIRINHO;Rua U;Moto Scooter;Masculino;38;Passageiro;1 - Leve
+438;2026-01-25;08:37:47;JUVEVÊ;Rua V;Moto 150cc;Masculino;30;Condutor;1 - Leve
+439;2025-12-14;21:53:52;PORTÃO;Rua W;Moto 150cc;Masculino;51;Passageiro;1 - Leve
+440;2025-04-30;20:01:23;PINHEIRINHO;Rua X;Moto Scooter;Masculino;40;Passageiro;1 - Leve
+441;2025-05-01;07:10:12;JUVEVÊ;Rua Y;Moto Scooter;Masculino;36;Condutor;Ilesa
+442;2026-03-26;16:07:20;CIDADE INDUSTRIAL;Rua Z;Moto 125cc;Feminino;21;Passageiro;3 - Grave c/ risco
+443;2025-08-15;17:29:17;SANTO INÁCIO;Rua A;Moto Scooter;Feminino;63;Passageiro;2 - Grave s/ risco
+444;2025-08-13;13:46:30;BOM RETIRO;Rua B;Moto 125cc;Feminino;35;Condutor;4 - Óbito
+445;2026-01-21;05:31:10;PINHEIRINHO;Rua C;Moto 250cc;Masculino;69;Condutor;1 - Leve
+446;2026-03-11;12:24:32;MERCES;Rua D;Moto 125cc;Masculino;63;Condutor;3 - Grave c/ risco
+447;2026-03-25;05:40:07;TARUMÃ;Rua E;Moto Scooter;Masculino;8;Passageiro;4 - Óbito
+448;2025-12-31;10:21:50;SANTA FELICIDADE;Rua F;Moto Scooter;Masculino;25;Passageiro;1 - Leve
+449;2025-08-15;23:40:16;CIDADE INDUSTRIAL;Rua G;Moto 250cc;Masculino;19;Condutor;3 - Grave c/ risco
+450;2025-05-01;11:56:45;SEMINÁRIO;Rua H;Moto Scooter;Feminino;34;Condutor;1 - Leve
+451;2026-01-08;14:15:53;CAPANEMA;Rua I;Moto Scooter;Feminino;37;Passageiro;1 - Leve
+452;2025-10-21;21:27:19;SANTO INÁCIO;Rua J;Moto 150cc;Masculino;38;Condutor;1 - Leve
+453;2025-09-02;00:09:39;CIDADE INDUSTRIAL;Rua K;Moto 150cc;Masculino;50;Passageiro;2 - Grave s/ risco
+454;2026-02-24;17:59:32;TINGUI;Rua L;Moto 250cc;Feminino;57;Condutor;3 - Grave c/ risco
+455;2025-05-11;01:32:32;JUVEVÊ;Rua M;Moto 125cc;Masculino;49;Condutor;Ilesa
+456;2025-09-27;08:12:29;CENTRO;Rua N;Moto 150cc;Masculino;26;Passageiro;2 - Grave s/ risco
+457;2025-04-05;00:12:51;UBERABA;Rua O;Moto 125cc;Feminino;23;Condutor;4 - Óbito
+458;2025-09-18;21:38:01;SÃO FRANCISCO;Rua P;Moto Scooter;Masculino;35;Condutor;3 - Grave c/ risco
+459;2025-04-21;05:38:25;SANTO INÁCIO;Rua Q;Moto 150cc;Masculino;41;Condutor;1 - Leve
+460;2025-05-14;13:57:49;CARMO;Rua R;Moto 250cc;Masculino;32;Passageiro;2 - Grave s/ risco
+461;2025-05-13;14:33:41;SEMINÁRIO;Rua S;Moto 250cc;Feminino;14;Condutor;1 - Leve
+462;2025-11-23;22:43:48;REBOUÇAS;Rua T;Moto 250cc;Masculino;45;Condutor;3 - Grave c/ risco
+463;2025-12-28;07:10:02;CIDADE INDUSTRIAL;Rua U;Moto 150cc;Masculino;29;Condutor;Ilesa
+464;2025-10-30;05:08:05;CENTRO CÍVICO;Rua V;Moto 125cc;Masculino;28;Condutor;1 - Leve
+465;2026-03-17;08:38:30;CENTRO;Rua W;Moto Scooter;Masculino;34;Condutor;3 - Grave c/ risco
+466;2025-08-15;08:49:11;SÃO FRANCISCO;Rua X;Moto 125cc;Masculino;31;Condutor;2 - Grave s/ risco
+467;2025-07-13;07:07:49;PINHEIRINHO;Rua Y;Moto 125cc;Feminino;29;Passageiro;2 - Grave s/ risco
+468;2026-02-11;19:46:58;JUVEVÊ;Rua Z;Moto Scooter;Masculino;15;Passageiro;1 - Leve
+469;2025-06-21;06:10:19;CARMO;Rua A;Moto Scooter;Feminino;33;Condutor;1 - Leve
+470;2026-03-17;15:03:05;SANTO INÁCIO;Rua B;Moto 150cc;Masculino;45;Passageiro;1 - Leve
+471;2025-04-05;21:25:02;BATEL;Rua C;Moto 150cc;Masculino;38;Passageiro;1 - Leve
+472;2026-03-20;08:59:41;MOSSUNGUÊ;Rua D;Moto 150cc;Masculino;49;Condutor;1 - Leve
+473;2025-04-16;13:10:17;CABRAL;Rua E;Moto 150cc;Masculino;24;Passageiro;2 - Grave s/ risco
+474;2026-02-19;21:11:22;CENTRO;Rua F;Moto 150cc;Masculino;15;Passageiro;1 - Leve
+475;2025-10-10;11:12:24;TARUMÃ;Rua G;Moto Scooter;Masculino;31;Passageiro;4 - Óbito
+476;2026-03-28;12:50:57;REBOUÇAS;Rua H;Moto 125cc;Masculino;25;Passageiro;2 - Grave s/ risco
+477;2025-04-27;18:54:45;MERCES;Rua I;Moto 150cc;Masculino;27;Passageiro;3 - Grave c/ risco
+478;2025-10-19;03:44:07;BATEL;Rua J;Moto 150cc;Masculino;38;Passageiro;2 - Grave s/ risco
+479;2026-03-19;22:52:54;CRISTO REI;Rua K;Moto 125cc;Feminino;27;Passageiro;2 - Grave s/ risco
+480;2025-10-08;18:43:17;SÃO FRANCISCO;Rua L;Moto 150cc;Feminino;16;Passageiro;Ilesa
+481;2025-11-16;05:17:18;BATEL;Rua M;Moto 125cc;Masculino;26;Condutor;1 - Leve
+482;2025-12-10;21:36:31;UBERABA;Rua N;Moto 125cc;Masculino;40;Condutor;1 - Leve
+483;2025-09-13;23:40:58;CRISTO REI;Rua O;Moto Scooter;Masculino;45;Passageiro;3 - Grave c/ risco
+484;2025-11-15;02:27:09;CENTRO;Rua P;Moto 250cc;Masculino;44;Passageiro;1 - Leve
+485;2025-10-30;18:34:28;JARDIM SOCIAL;Rua Q;Moto Scooter;Masculino;41;Condutor;1 - Leve
+486;2026-02-23;21:14:32;BOM RETIRO;Rua R;Moto 250cc;Feminino;32;Passageiro;1 - Leve
+487;2025-04-17;06:11:48;SANTO INÁCIO;Rua S;Moto 250cc;Masculino;41;Passageiro;1 - Leve
+488;2025-07-12;20:30:57;TARUMÃ;Rua T;Moto 250cc;Masculino;34;Condutor;2 - Grave s/ risco
+489;2026-03-12;23:19:36;CABRAL;Rua U;Moto 150cc;Feminino;36;Condutor;1 - Leve
+490;2026-02-19;03:27:43;REBOUÇAS;Rua V;Moto Scooter;Masculino;20;Condutor;4 - Óbito
+491;2025-09-13;19:59:23;TARUMÃ;Rua W;Moto 250cc;Feminino;35;Passageiro;3 - Grave c/ risco
+492;2025-11-12;17:48:50;CARMO;Rua X;Moto 125cc;Masculino;40;Passageiro;3 - Grave c/ risco
+493;2025-07-10;08:35:57;BOM RETIRO;Rua Y;Moto 150cc;Masculino;40;Condutor;2 - Grave s/ risco
+494;2025-06-08;20:33:35;SEMINÁRIO;Rua Z;Moto Scooter;Masculino;15;Condutor;4 - Óbito
+495;2025-09-16;01:14:33;JARDIM SOCIAL;Rua A;Moto 250cc;Masculino;36;Passageiro;1 - Leve
+496;2025-08-07;03:05:38;NOVO MUNDO;Rua B;Moto 125cc;Feminino;13;Condutor;4 - Óbito
+497;2025-10-30;09:50:50;SEMINÁRIO;Rua C;Moto Scooter;Masculino;37;Passageiro;3 - Grave c/ risco
+498;2025-04-29;21:11:02;CAPANEMA;Rua D;Moto Scooter;Feminino;24;Passageiro;3 - Grave c/ risco
+499;2026-03-21;12:17:39;SANTO INÁCIO;Rua E;Moto 150cc;Masculino;60;Condutor;2 - Grave s/ risco
+500;2026-03-25;20:14:32;FANNY;Rua F;Moto Scooter;Masculino;36;Condutor;1 - Leve
